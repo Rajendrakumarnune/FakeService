@@ -1,0 +1,120 @@
+  
+"data": {
+
+        "aiExclude": [
+
+            0,
+
+            1,
+
+            2,
+
+            19
+
+        ],
+
+        "iDraw": 0,
+
+        "iTotalRecords": 2,
+
+        "iTotalDisplayRecords": 50,
+
+        "iDisplayStart": 0,
+
+        "aaData": [
+
+            {
+
+                "OpenItems": "0",
+
+                "CollectorName": "RANAWAT, NEPAL SINGH",
+
+                "PhoneNo": "918049308267 FX:",
+
+                "Ssoid": "000000000",
+
+                "Name": "DR KUNWAR ANURAG SINGH",
+
+                "CustomerNo": "0001610274",
+
+                "BusinessAlias": "2068060",
+
+                "Status1": "In-Active",
+
+                "Balance": "0.00",
+
+                "BillingCurrency": "INR",
+
+                "CCNumber": "CC95",
+
+                "City": "MAU",
+
+                "Address": "PRAMOD MIDAN KENDRA, MOHAMDABAD,,GOHNA,MAU INDIA 276403,IN",
+
+                "Definer": "",
+
+                "ParentSub": " ",
+
+                "PLName": "HEALTHCARE INDIA - LUCKNOW",
+
+                "ExtendedName": "DR KUNWAR ANURAG SINGH",
+
+                "NativeAddress": "PRAMOD MIDAN KENDRA, MOHAMDABAD,,,,,,,,,",
+
+                "OrgId": "",
+
+                "IsSensitiveCustomer": "",
+
+                "CaseId": "Check LaSCA"
+
+            },
+
+            {
+
+                "OpenItems": "1",
+
+                "CollectorName": "RANAWAT, NEPAL SINGH",
+
+                "PhoneNo": "918049308267 FX:",
+
+                "Ssoid": "000000000",
+
+                "Name": "DR KUNWAR ANURAG SINGH",
+
+                "CustomerNo": "0001610280",
+
+                "BusinessAlias": "2068064",
+
+                "Status1": "Active",
+
+                "Balance": "700,000.00",
+
+                "BillingCurrency": "INR",
+
+                "CCNumber": "CC95",
+
+                "City": "MAU",
+
+                "Address": "PRAMOD XRAY AND,ULTRASONOGRAPHY CENTRE MOHAMMADABAD GOHANA,MAU INDIA 276403,IN",
+
+                "Definer": "",
+
+                "ParentSub": " ",
+
+                "PLName": "HEALTHCARE INDIA - LUCKNOW",
+
+                "ExtendedName": "DR KUNWAR ANURAG SINGH",
+
+                "NativeAddress": "PRAMOD MIDAN KENDRA, MOHAMDABAD,,,,,,,,,",
+
+                "OrgId": "",
+
+                "IsSensitiveCustomer": "",
+
+                "CaseId": "Check LaSCA"
+
+            }
+
+        ]
+} 
+ 
