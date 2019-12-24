@@ -1,9 +1,4 @@
-{"data":{
-        "aiExclude": [0,1,2,19],
-        "iDraw": 0,
-        "iTotalRecords": 2,
-        "iTotalDisplayRecords": 50,
-        "iDisplayStart": 0,
+{
         "aaData": [
             {
                 "OpenItems": "0",
@@ -52,6 +47,6 @@
                 "CaseId": "Check LaSCA"
             }
         ]
-} 
+
 }
  
